@@ -686,6 +686,18 @@ figure {
   background-repeat: no-repeat;
 }
 
+#fh5co-started a {
+  color: #F69D9D;
+  text-decoration: none;
+}
+
+#fh5co-started a:hover, a:active,  a:visited {
+  color: #fff;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+}
+
 #fh5co-started .overlay {
   position: absolute;
   top: 0;
