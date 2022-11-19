@@ -691,7 +691,7 @@ figure {
   text-decoration: none;
 }
 
-#fh5co-started a:hover, a:active,  a:visited {
+#fh5co-started a:hover, a:active {
   color: #fff;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
