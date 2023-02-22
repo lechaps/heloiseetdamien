@@ -256,13 +256,12 @@ figure {
 .sf-menu a {
   color: rgba(0, 0, 0, 0.5);
   padding: 0.75em 1em !important;
-  font-weight: normal;
   border-left: none;
-  border-top: none;
   border-top: none;
   text-decoration: none;
   zoom: 1;
-  font-size: 16px;
+  font-size: 24px;
+  /*font-size: 16px;*/
   border-bottom: none !important;
 }
 
@@ -381,6 +380,7 @@ figure {
 
 #fh5co-logo a {
   color: #F69D9D;
+  font-size: 40px;
 }
 
 #fh5co-logo a:hover, #fh5co-logo a:focus {
@@ -689,7 +689,7 @@ figure {
 }
 
 #fh5co-started a {
-  color: #F69D9D;
+  /*color: #F69D9D;*/
   text-decoration: none;
 }
 
