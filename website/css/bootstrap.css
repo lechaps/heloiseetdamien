@@ -1545,7 +1545,8 @@ h6 .small, .h6 small,
 }
 
 h1, .h1 {
-  font-size: 36px;
+  /*font-size: 36px;*/
+  font-size: 56px;
 }
 
 h2, .h2 {

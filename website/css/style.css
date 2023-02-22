@@ -207,7 +207,8 @@ figure {
 
 .fh5co-cover .display-tc h2 {
   color: #fff;
-  font-size: 80px;
+  /*font-size: 80px;*/
+  font-size: 120px;
   margin-bottom: 30px;
   font-weight: 300 !important;
 }
@@ -230,6 +231,7 @@ figure {
 }
 
 .fh5co-cover .display-tc p span {
+  font-size: 60px;
   border-top: 2px solid #fff;
   border-bottom: 2px solid #fff;
   padding: 5px 0px;
